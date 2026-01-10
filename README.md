@@ -2,9 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
-## Development server
+## Development Server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run the following command to start the development server:
+
+ng serve
+
+Once the server starts, open your browser and go to:
+
+http://localhost:4200/
+
+Note: `localhost` refers to your own system. Anyone who clones and runs this project locally will be able to access the application at the same URL on their machine.
+
+The application will automatically reload when you modify any source files.
+
 
 ## Code scaffolding
 
